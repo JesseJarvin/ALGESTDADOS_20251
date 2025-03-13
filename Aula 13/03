@@ -1,0 +1,49 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/JesseJarvin/ALGESTDADOS_20251/blob/main/Aula%2013/03\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Exercícios de Sala de Aula - 13-03\n",
+        "# 1. Peça dois números ao usuário e exiba a soma.\n",
+        "# 2. Solicite o primeiro e o último nome do usuário e exiba o nome completo.\n",
+        "# 3. Peça uma palavra e um número ao usuário e exiba a palavra repetida esse número de vezes.\n",
+        "# 4. Solicite um texto e exiba-o em letras maiúsculas.\n",
+        "# 5. Peça uma palavra e exiba quantos caracteres ela tem.\n",
+        "# 6. Mostre a data e a hora atuais.\n",
+        "# 7. Solicite o ano de nascimento do usuário e calcule a idade aproximada.\n",
+        "# 8. Peça três números ao usuário e exiba a média aritmética.\n",
+        "# 9. Solicite a data de nascimento do usuário no formato AAAA-MM-DD e calcule aproximadamente quantos dias ele já viveu.\n",
+        "# 10. Solicite uma data no formato AAAA-MM-DD e exiba-a no formato DD/MM/AAAA."
+      ],
+      "metadata": {
+        "id": "sHq4IAZMQvE4"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "colab": {
+      "name": "Olá, este é o Colaboratory",
+      "toc_visible": true,
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 0
+}
